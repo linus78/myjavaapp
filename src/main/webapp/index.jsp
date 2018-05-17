@@ -3,7 +3,7 @@
   <body>
     <h3>MyJavaApp</h3>
 
-    <%= "Hello World!" %>
+    <%= "Hello World2!" %>
 
   </body>
 </html>
